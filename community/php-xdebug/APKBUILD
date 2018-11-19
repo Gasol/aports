@@ -1,10 +1,11 @@
+# Contributor: Gasol Wu <gasol.wu@gmail.com>
 # Contributor: Andy Postnikov <apostnikov@gmail.com>
 # Contributor: Valery Kartel <valery.kartel@gmail.com>
 # Contributor: Fabio Ribeiro <fabiorphp@gmail.com>
 # Maintainer: Andy Postnikov <apostnikov@gmail.com>
 pkgname=php-xdebug
 _pkgname=xdebug
-pkgver=2.5.0
+pkgver=2.5.5
 pkgrel=1
 pkgdesc="PHP extension provides functions for function traces and profiling"
 url="http://pecl.php.net/package/$_pkgname"
@@ -61,6 +62,6 @@ _subpackage() {
 	EOF
 }
 
-md5sums="5306da5948e195c2e4585c9abd7741f9  xdebug-2.5.0.tgz"
-sha256sums="8bd6ad1e64948308e3e3a7437292f154b11e25acaf31b0d59d83bda18af0890d  xdebug-2.5.0.tgz"
-sha512sums="75b1dbf32059eebb6ea3fb6ebb50ab26d73f8ce2964be1fec41ecfd9ae3d8bd55b6997daf03727b28b91ba06d08734865158bed6f038a46f00a1da5424ce5fe6  xdebug-2.5.0.tgz"
+md5sums="81bca42ea6a1f7080f501b00d8122a01  xdebug-2.5.5.tgz"
+sha256sums="72108bf2bc514ee7198e10466a0fedcac3df9bbc5bd26ce2ec2dafab990bf1a4  xdebug-2.5.5.tgz"
+sha512sums="9faab421bd90c03734c047d8c6dcc021c8bc665eb36781c692f194d04c7dca24fe1eb920ca8dc407e5bf4ae0912c4b917587f940f34b07171a8881d4cf8695d1  xdebug-2.5.5.tgz"
